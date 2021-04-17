@@ -125,19 +125,12 @@ I used TEXT LOADER to send the API request. It response will be in a JSON format
   <br>
   <img src="https://phppot.com/wp-content/uploads/2018/09/signup-to-get-api-key.jpg" class="w3-border" alt="Norway" style="padding:16px;width:100%">
   
-    </div>
-    <div class="w3-third w3-container">
-      <p class="w3-border w3-padding-large w3-padding-64 w3-center">AD</p>
-    </div>
+  
   </div>
 
-      <h1 class="w3-text-teal" id="SourceCode">
-      <div class="w3-center">
-<button class="w3-button w3-white w3-border w3-border-red w3-round-large">
-
+      
 <a href="https://github.com/tppraveen/live_weather_forecast-SAP-MII">Download Source Code</a>
 
-</button>
 <br>
 
 
