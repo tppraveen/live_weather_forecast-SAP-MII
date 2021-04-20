@@ -1,0 +1,30 @@
+Page{
+	background-color: blue  !important;
+}
+#__text3,#__text4,#task--TEMP{
+	color:#612020;
+}
+#task--TEMP {
+    	font-weight:900;
+}
+#__text5,#__text6{
+	color:#0005AD;
+}
+#__button0{
+	margin-left:10px;
+}
+section{
+  background-image: url("/XMII/CM/SMT_TRAINING/Praveen/Evaluation/weather/Image/background.jfif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+Input{
+  border-style: solid;
+  border-color: #0000ff;}
+
+#autorefresh{
+	
+  border-style: dotted;
+  border-color: blue;
+}
