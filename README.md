@@ -31,6 +31,8 @@
   <tr>
     <td> <a class="w3-bar-item w3-button w3-hover-black"  href="https://tppraveen.github.io/live_weather_forecast-SAP-MII/">JSON Code to bind data</a>
  </td>
+  </tr>
+  <tr>
     <td> <a class="w3-bar-item w3-button w3-hover-black"  href="https://tppraveen.github.io/live_weather_forecast-SAP-MII/">Output of Weather Forecast using OpenWeatherMap with SAP MII</a>
  </td>
   </tr>
