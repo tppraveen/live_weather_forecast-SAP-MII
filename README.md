@@ -2,19 +2,9 @@
 <html lang="en">
 <body>
 
-<!-- Navbar -->
-<div class="w3-top">
-  <div class="w3-bar w3-theme w3-top w3-left-align w3-large">
-    <a class="w3-bar-item w3-button w3-right w3-hide-large w3-hover-white w3-large w3-theme-l1" href="javascript:void(0)" onclick="w3_open()"><i class="fa fa-bars"></i></a>
-    <a href="https://tppraveen.github.io/" class="w3-bar-item w3-button w3-theme-l1">Praveen</a>
-    <a href="tel:+918825860181" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Call Me</a>
-    <a href="http://wa.me/+918825860181" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Whatsapp</a>
-    <a href="mailto:tppkpraveen@gmail.com" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Hire Me !</a>
-  </div>
-</div>
 
   <h4 class="w3-bar-item">live_weather_forecast-SAP-MII
-  <a href="https://tppraveen.github.io/live_weather_forecast-SAP-MII/">View</a>
+  <a href="https://tppraveen.github.io/live_weather_forecast-SAP-MII/">Click to Open</a>
   </h4>
 <table>
   <tr>
@@ -51,7 +41,7 @@
 </table>
 
   <h4 class="w3-bar-item">live_weather_forecast-SAP-MII --
-  <a href="https://tppraveen.github.io/live_weather_forecast-SAP-MII/">View</a>
+  <a href="https://tppraveen.github.io/live_weather_forecast-SAP-MII/">Click to Open</a>
   </h4>
 
 
