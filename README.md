@@ -23,21 +23,8 @@ This is one of the best API service that provides weather forecast. It provides 
 
     </div>
   </div>
-<!-- Demo Video 
-  <div class="w3-row w3-padding-64">
-    <div class="w3-twothird w3-container">
-      <h1 class="w3-text-teal" id="Demo_Video">Demo Video</h1>
-   <video width="600" controls class=" w3-container">
-  <source src=" " type="video/mp4">
-  <source src=" " type="video/ogg">
-  Your browser does not support HTML video.
-</video>
-  </div>
-  </div>
--->
-
-<!-- Get OpenWeatherMap API key --> <div class=" w3-container">
-      <h1 class="w3-text-teal" id="Get_OpenWeatherMap"> Get OpenWeatherMap API key</h1>
+  <div class=" w3-container">
+      <h1 class="w3-text-teal" > Get OpenWeatherMap API key</h1>
     
        <ol>
   <li>To get the API key, we need to register with <a href="https://openweathermap.org/">OpenWeatherMap</a> . After signing up, it will redirect us to the profile settings.</li>
