@@ -13,24 +13,30 @@
   </div>
 </div>
 
-<!-- Sidebar -->
-<nav class="w3-sidebar w3-bar-block w3-collapse w3-large w3-theme-l5 w3-animate-left" id="mySidebar">
-  <a href="javascript:void(0)" onclick="w3_close()" class="w3-right w3-xlarge w3-padding-large w3-hover-black w3-hide-large" title="Close Menu">
-    <i class="fa fa-remove"></i>
-  </a>
   <h4 class="w3-bar-item">live_weather_forecast-SAP-MII
   <a class="w3-bar-item w3-button w3-hover-black">View</a>
   </h4>
+<table>
+  <tr>
+    <td>
   <a class="w3-bar-item w3-button w3-hover-black" href="#Demo_Video">Demo Video</a>
-  <a class="w3-bar-item w3-button w3-hover-black" href="#Get_OpenWeatherMap">Get OpenWeatherMap API key</a>
-  <a class="w3-bar-item w3-button w3-hover-black" href="#Locate">Locate city id</a>
-  <a class="w3-bar-item w3-button w3-hover-black" href="#Transcation">Transcation to Request Weather Forecast by sending keys and location</a>
-  <a class="w3-bar-item w3-button w3-hover-black" href="#XML">XML Code to Show Weather Forecasts</a>
-  <a class="w3-bar-item w3-button w3-hover-black"  href="#JSON">JSON Code to bind data</a>
-  <a class="w3-bar-item w3-button w3-hover-black"  href="#Output">Output of Weather Forecast using OpenWeatherMap with SAP MII</a>
-  <a class="w3-bar-item w3-button w3-hover-black" href="#SourceCode">Download Source Code</a>
-  
-</nav>
+  </td>
+    <td><a class="w3-bar-item w3-button w3-hover-black" href="#Get_OpenWeatherMap">Get OpenWeatherMap API key</a>
+  </td>
+    <td><a class="w3-bar-item w3-button w3-hover-black" href="#Locate">Locate city id</a>
+  </td>
+    <td><a class="w3-bar-item w3-button w3-hover-black" href="#Transcation">Transcation to Request Weather Forecast by sending keys and location</a>
+  </td>
+    <td><a class="w3-bar-item w3-button w3-hover-black" href="#XML">XML Code to Show Weather Forecasts</a>
+ </td>
+    <td> <a class="w3-bar-item w3-button w3-hover-black"  href="#JSON">JSON Code to bind data</a>
+ </td>
+    <td> <a class="w3-bar-item w3-button w3-hover-black"  href="#Output">Output of Weather Forecast using OpenWeatherMap with SAP MII</a>
+ </td>
+    <td> <a class="w3-bar-item w3-button w3-hover-black" href="#SourceCode">Download Source Code</a>
+  </td></td>
+  </tr>
+</table>
 
   <h4 class="w3-bar-item">live_weather_forecast-SAP-MII
   <a class="w3-bar-item w3-button w3-hover-black">View</a>
