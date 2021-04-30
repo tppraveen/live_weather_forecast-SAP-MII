@@ -14,32 +14,42 @@
 </div>
 
   <h4 class="w3-bar-item">live_weather_forecast-SAP-MII
-  <a class="w3-bar-item w3-button w3-hover-black">View</a>
+  <a href="https://tppraveen.github.io/live_weather_forecast-SAP-MII/">View</a>
   </h4>
 <table>
   <tr>
     <td>
-  <a class="w3-bar-item w3-button w3-hover-black" href="#Demo_Video">Demo Video</a>
+  <a class="w3-bar-item w3-button w3-hover-black" href="https://tppraveen.github.io/live_weather_forecast-SAP-MII/">Demo Video</a>
   </td>
-    <td><a class="w3-bar-item w3-button w3-hover-black" href="#Get_OpenWeatherMap">Get OpenWeatherMap API key</a>
+    <td><a class="w3-bar-item w3-button w3-hover-black" href="https://tppraveen.github.io/live_weather_forecast-SAP-MII/">Get OpenWeatherMap API key</a>
   </td>
-    <td><a class="w3-bar-item w3-button w3-hover-black" href="#Locate">Locate city id</a>
+    <td><a class="w3-bar-item w3-button w3-hover-black" href="https://tppraveen.github.io/live_weather_forecast-SAP-MII/">Locate city id</a>
   </td>
-    <td><a class="w3-bar-item w3-button w3-hover-black" href="#Transcation">Transcation to Request Weather Forecast by sending keys and location</a>
+    <td><a class="w3-bar-item w3-button w3-hover-black" href="https://tppraveen.github.io/live_weather_forecast-SAP-MII/">Transcation to Request Weather Forecast by sending keys and location</a>
   </td>
-    <td><a class="w3-bar-item w3-button w3-hover-black" href="#XML">XML Code to Show Weather Forecasts</a>
+    <td><a class="w3-bar-item w3-button w3-hover-black" href="https://tppraveen.github.io/live_weather_forecast-SAP-MII/">XML Code to Show Weather Forecasts</a>
  </td>
-    <td> <a class="w3-bar-item w3-button w3-hover-black"  href="#JSON">JSON Code to bind data</a>
+    <td> <a class="w3-bar-item w3-button w3-hover-black"  href="https://tppraveen.github.io/live_weather_forecast-SAP-MII/">JSON Code to bind data</a>
  </td>
-    <td> <a class="w3-bar-item w3-button w3-hover-black"  href="#Output">Output of Weather Forecast using OpenWeatherMap with SAP MII</a>
+    <td> <a class="w3-bar-item w3-button w3-hover-black"  href="https://tppraveen.github.io/live_weather_forecast-SAP-MII/">Output of Weather Forecast using OpenWeatherMap with SAP MII</a>
  </td>
-    <td> <a class="w3-bar-item w3-button w3-hover-black" href="#SourceCode">Download Source Code</a>
+    <td> <a class="w3-bar-item w3-button w3-hover-black" href="https://tppraveen.github.io/live_weather_forecast-SAP-MII/">Download Source Code</a>
   </td></td>
   </tr>
 </table>
 
-  <h4 class="w3-bar-item">live_weather_forecast-SAP-MII
-  <a class="w3-bar-item w3-button w3-hover-black">View</a>
+  <h4 class="w3-bar-item">live_weather_forecast-SAP-MII --
+  <a href="https://tppraveen.github.io/live_weather_forecast-SAP-MII/">View</a>
   </h4>
+
+
+<p>Contact Me - <a href="https://tppraveen.github.io/" target="_blank">Praveen Kumar</a> -|-
+
+    <a href="tel:+918825860181" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Call Me</a> -|-
+
+    <a href="http://wa.me/+918825860181" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Whatsapp</a> -|-
+
+    <a href="mailto:tppkpraveen@gmail.com" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Hire Me !</a>
+</p>
 </body>
 </html>
